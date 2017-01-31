@@ -1,6 +1,6 @@
 # vMozilla Campus Club
- It's  proposed to be initiated soon at Vellore Institute of Technology, Vellore in early 2017.
- 
+ It's  proposed to pilot soon at Vellore Institute of Technology, Vellore in early 2017.
+ #### Other Schools and Colleges located in and around Vellore district are being enquired too.
  - [x] Application as Campus Club Leader to Mozilla.
  - [ ] Issuance of SOP letter from Mozilla.
  - [ ] Application at O/o DSW, VIT University.

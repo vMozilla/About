@@ -8,8 +8,8 @@
  Other Schools and Colleges located in and around Vellore district are being enquired too.
  
 ## Colleges and Institutes
- - [x] VIT University, Vellore
+ - [x] VIT University, Katpadi [Details](./VITUniversity)
  - [ ] 
- - [ ]
+ - [ ] 
  - [ ] 
  - [ ]  

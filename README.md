@@ -1,5 +1,5 @@
 # vMozilla   
-| [About](/README.md) | [Campus Clubs](./CampusClubs/README.md) | [Members](/Members/README.md) | [Projects](./Projects/README.md) | 
+| [About](/README.md) | [Campus Clubs](./CampusClubs/README.md) | [Members](/Members/README.md) | [Projects](./Projects) | 
 ----
 
 ## About vMozilla Developer

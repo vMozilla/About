@@ -1,9 +1,11 @@
-vMozilla  
+# vMozilla  
+
 ----  
-[About](/README.md) | -[Members](/Members/README.md)-  
+[About](/README.md) | [Members](/Members/README.md) | [Projects](./Projects/README.md)-  | 
 ----
-# About
-vMozilla | About Us
+
+## About vMozilla Developer
+
  Please navigate using the folder view above.
 vMozilla Campus Club
 

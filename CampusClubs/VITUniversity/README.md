@@ -13,7 +13,8 @@
  
 .  
  - [x] Application as Campus Club Leader to Mozilla.
- - [x] Issuance of SOP letter from Mozilla.
+ - [ ] Issuance of SOP letter from Mozilla.
+ - [ ] Public call for applicants.
  - [ ] Selection of Student Executives.
  - [ ] Application at O/o DSW, VIT University.
  - [ ] Campus Club mass developer registrations.

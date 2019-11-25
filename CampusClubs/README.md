@@ -20,6 +20,7 @@ Numerous alumni of the esteemed institution practice this attitude at their curr
 
 ### Firefox Club
 The [wiki](https://wiki.mozilla.org/Firefox_Club-VIT) entry and the [innaugral](https://reps.mozilla.org/e/vit-firefox-students-ambassador-club-inauguration/) ceremony are provided here for historical aspects.
+
 ```
 21
 FEB 2015
@@ -27,9 +28,10 @@ Saturday
 08:00
 16:00
 ```
+
 Category `Apps, Campus, Firefox OS, Recruiting`
 
 Hashtag `#vitfsa`
 
-Description ```Inaugurating FSA club. Sharing various areas of Contributions Introduction about Firefox OS. Introducing Mozilla Appmaker for App development Introduction to Various Tools for Firefox OS app development. Build simple apps using HTML,CSS,JS Building apps using API’s Uploading Apps to Marketplace.
-```
+#### Description 
+Inaugurating FSA club. Sharing various areas of Contributions Introduction about Firefox OS. Introducing Mozilla Appmaker for App development Introduction to Various Tools for Firefox OS app development. Build simple apps using HTML,CSS,JS Building apps using API’s Uploading Apps to Marketplace.
